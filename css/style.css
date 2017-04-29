@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', 'Helvetica', sans-serif;
+}
+
+body {
+margin: 0;
+padding:0;
+background-color: #f5f5f5;
+font-family: 'Roboto', 'Helvetica', sans-serif;
+}
+
+.cuadro {
+	position: relative;
+	width: 300px;
+	height: auto;
+	background-color: #000;	
+	padding: 20px 10px 20px 10px; 
+	margin: auto;
+	border: 10px solid blue;
+	text-align: center;
+}
+
+.cuadro_mini {
+	
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	
+	margin: auto;
+}
+
+.cuadro_mini_2 {
+	
+	top: 5px;
+	position: relative;
+	height: 150px;
+	background-color: yellow;
+}
+
+
+
